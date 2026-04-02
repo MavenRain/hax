@@ -319,6 +319,7 @@ tests:
 
   unused:
     - json
+    - lean
     - fstar
 
   unused_mod:
@@ -336,5 +337,6 @@ tests:
 
   while_early_ret:
     - json
+    - lean
     - fstar
     - fstar-lax
